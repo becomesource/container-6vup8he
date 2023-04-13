@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "becomesource",
+  "repo": "container-6vup8he",
+  "name": "becomesource",
+}
